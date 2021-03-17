@@ -1,2 +1,2 @@
 # Programming-2
-Homeworks and tasks from my Programing 2 lessons
+Homeworks and tasks from my Programming 2 lessons
