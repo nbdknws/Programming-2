@@ -1,0 +1,7 @@
+C:\Users\bolno\Downloads\GameBook-1-Stub\GameBook-1\GameBook\bin\Debug\GameBook.exe.config
+C:\Users\bolno\Downloads\GameBook-1-Stub\GameBook-1\GameBook\bin\Debug\GameBook.exe
+C:\Users\bolno\Downloads\GameBook-1-Stub\GameBook-1\GameBook\bin\Debug\GameBook.pdb
+C:\Users\bolno\Downloads\GameBook-1-Stub\GameBook-1\GameBook\obj\Debug\GameBook.csprojAssemblyReference.cache
+C:\Users\bolno\Downloads\GameBook-1-Stub\GameBook-1\GameBook\obj\Debug\GameBook.csproj.CoreCompileInputs.cache
+C:\Users\bolno\Downloads\GameBook-1-Stub\GameBook-1\GameBook\obj\Debug\GameBook.exe
+C:\Users\bolno\Downloads\GameBook-1-Stub\GameBook-1\GameBook\obj\Debug\GameBook.pdb
